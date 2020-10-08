@@ -1,0 +1,76 @@
+#
+#   Navigation to the left › side: left
+#
+- title: Start
+  url: "/"
+  side: left
+  
+- title: Informazioni
+  url: "/info/"
+  side: left
+  
+- title: programma
+  url: "/programma/"
+  side: left
+  
+- title: lucidi
+  url: "/lucidi/"
+  side: left
+  
+- title: note
+  url: "/note/"
+  side: left
+  
+- title: codici
+  url: "/codici/"
+  side: left
+
+- title: dataset
+  url: "/dataset/"
+  side: left
+  
+- title: Comunicazioni
+  url: "/comunicazioni/"
+  side: left
+  
+- title: Lezioni
+  url: "/lezioni/"
+  side: left
+  
+- title: Progetti
+  url: "/progetti/"
+  side: left
+  
+- title: Store
+  url: "/store/"
+  side: left
+  
+- title: Bibliografia
+  url: "/biblio/"
+  side: left
+
+#- title: "Dropdown Menu"
+#  url: "#"
+#  side: left
+#  dropdown:
+#  - title: "Dropdown Menu 1"
+#    url: "#"
+#  - title: "Dropdown Menu 2"
+#    url: "#"
+#  - title: "Dropdown Menu 3"
+#    url: "#"
+
+#
+#   Navigation to the right › side: right
+#
+#- title: "Info"
+#  url: "/info/"
+#  side: left
+
+#- title: "Search"
+#  url: "/search/"
+#  side: right
+
+#- title: "Contact"
+#  url: "/contact/"
+#  side: right

@@ -1,0 +1,41 @@
+- menu_name: "Thanks to"
+  
+#- name: "Github"
+#  url: "https://github.com/"
+#  class: "services-newsletter"
+#  title: "Github"
+  
+- name: "Github pages"
+  url: "https://pages.github.com/"
+  class: "services-newsletter"
+  title: "Github pages"
+    
+- name: "Jekyll"
+  url: "https://jekyllrb.com/"
+  class: "services-newsletter"
+  title: "Jekyll"  
+  
+- name: "Foundation"
+  url: "http://foundation.zurb.com/"
+  class: "services-newsletter"
+  title: "Foundation"
+  
+- name: "Entypo icons"
+  url: "http://entypo.com/"
+  class: "network-entypo"
+  title: "Entypo icons"
+  
+- name: "Xkcd comics"
+  url: "https://xkcd.com/"
+  class: "network-entypo"
+  title: "Xkcd comics"
+
+#- name: "Images by Unsplash"
+#  url: "http://unsplash.com/"
+#  class: "rss-link"
+#  title: "Images by Unsplash"
+
+#- name: "Using Backstretch by Scott Robbin"
+#  url: "http://srobbin.com/jquery-plugins/backstretch/"
+#  class: "sitemap-link"
+#  title: "Using Backstretch by Scott Robbin"

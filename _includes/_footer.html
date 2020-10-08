@@ -1,0 +1,116 @@
+
+
+
+    <footer id="footer-content" class="bg-grau">
+      <div id="footer">
+        <div class="row">
+          <div class="medium-6 large-5 columns">
+            <h5 class="shadow-black">{{ site.data.language.info_website }}</h5>
+
+            <p class="shadow-black">
+              {{ site.description }}
+            </p>
+          </div><!-- /.large-6.columns -->
+
+
+          <div class="small-6 medium-3 large-3 large-offset-1 columns">
+            {% for service_item in site.data.services %}
+              {% if forloop.first == true %}
+                <h5 class="shadow-black">{{ service_item.menu_name }}</h5>
+              {% endif %}
+            {% endfor %}
+              
+              <ul class="no-bullet shadow-black">
+              {% for service_item in site.data.services %}
+                {% if service_item.url contains 'http' %}{% assign domain = '' %}{% elsif service_item.url contains 'mailto'%}{% assign domain = '' %}{% else %}{% assign domain = site.baseurl %}{% endif %}
+                  <li {% if service_item.class %}class="{{ service_item.class }}" {% endif %}>
+                    <font color="yellow">{{ service_item.url }}</font>
+                  </li>
+              {% endfor %}
+              </ul>
+          </div><!-- /.large-4.columns -->
+
+
+          <div class="small-6 medium-3 large-3 columns">
+            {% for network_item in site.data.network %}
+              {% if forloop.first == true %}
+                <h5 class="shadow-black">{{ network_item.menu_name }}</h5>
+              {% endif %}
+            {% endfor %}
+              
+            <!--ul class="no-bullet shadow-black">
+            {% for network_item in site.data.network %}
+              {% if network_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% assign domain = site.baseurl %}{% endif %}
+                <li {% if network_item.class %}class="{{ network_item.class }}" {% endif %}>
+                  <a href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
+                </li>
+            {% endfor %}
+            </ul-->
+            <div class="row shadow-black collapse">
+            	<div class="small-5 columns">
+            		<span  class="network-entypo">
+            			<font  size='2'>
+            				<a href="https://github.com/" target="_blank"  title="Github">Github
+            				</a>
+            			</font>
+            		</span>
+            	</div>
+            	<div class="small-7 columns">
+            		<span  class="network-entypo">
+            			<font  size='2'>
+            				<a href="https://pages.github.com/" target="_blank"  title="Github pages">Github pages
+            				</a>
+            			</font>
+            		</span>
+            	</div>
+            </div>
+          
+          <div class="row shadow-black collapse">
+            	<div class="small-5 columns">
+            		<span  class="network-entypo">
+            			<font  size='2'>
+            				<a href="https://jekyllrb.com/" target="_blank"  title="Jekyll">Jekyll
+            				</a>
+            			</font>
+            		</span>
+            	</div>
+            	<div class="small-7 columns"><span  class="network-entypo"><font  size='2'><a href="http://foundation.zurb.com/" target="_blank"  title="Foundation">Foundation</a></font></span></div>
+            </div>
+            <div class="row shadow-black collapse">
+            	<div class="small-5 columns">
+            		<span  class="network-entypo">
+            			<font  size='2'>
+            				<a href="http://entypo.com/" target="_blank"  title="Entypo icons">Entypo icons
+            				</a>
+            			</font>
+            		</span>
+            	</div>
+            	<div class="small-7 columns"><span  class="network-entypo"><font  size='2'><a href="https://xkcd.com/" target="_blank"  title="Xkcd comics">Xkcd comics</a></font></span></div>
+            </div>
+          </div><!-- /.large-3.columns -->
+          
+        </div><!-- /.row -->
+
+      </div><!-- /#footer -->
+
+
+      <div id="subfooter">
+        <nav class="row">
+          <section id="subfooter-left" class="b30 small-12 medium-6 columns credits">
+            <p>
+              Leave some &hearts;
+              for&nbsp;
+              <a href="http://phlow.de" alt="Theme created by Phlow">Phlow</a>
+            </p>
+          </section>
+
+          <section id="subfooter-right" class="small-12 medium-6 columns social-icons">
+            <ul class="inline-list">
+            {% for social_item in site.data.socialmedia %}
+              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+            {% endfor %}
+            </ul>
+          </section>
+        </nav>
+      </div><!-- /#subfooter -->
+    </footer>

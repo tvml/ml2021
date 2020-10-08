@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/ml1920/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/ml1920/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4000/ml1920/</id>
+	<title>Machine learning</title>
+	<updated>2020-07-31T20:22:25+02:00</updated>
+
+	<subtitle>Informazioni, comunicazioni e materiali relativi al corso di Machine learning, CdLM in Informatica, Università di Roma Tor Vergata.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Giorgio Gambosi</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="http://localhost:4000/ml1920/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/ml1920/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
+
+	
+		<entry>
+			<id>http://localhost:4000/ml1920/comunicazioni/appelli-sessione-autunnale/</id>
+			<title>Appelli sessione autunnale</title>
+			<link href="http://localhost:4000/ml1920/comunicazioni/appelli-sessione-autunnale/" rel="alternate" type="text/html" title="Appelli sessione autunnale" />
+			<updated>2020-07-31T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1920/comunicazioni/appelli-sessione-autunnale/">&lt;p&gt;Gli appelli di esame per la sessione autunnale sono fissati alle seguenti date:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Venerdì 11 settembre 2020, alle ore 10, online via Teams&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Giovedì 24 settembre 2020, alle ore 10, online via Teams&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+
+			
+				<category term="comunicazioni" />
+			
+			
+
+			<published>2020-07-31T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/ml1920/comunicazioni/appelli-sessione-estiva/</id>
+			<title>Appelli sessione estiva</title>
+			<link href="http://localhost:4000/ml1920/comunicazioni/appelli-sessione-estiva/" rel="alternate" type="text/html" title="Appelli sessione estiva" />
+			<updated>2020-05-25T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1920/comunicazioni/appelli-sessione-estiva/">&lt;p&gt;Gli appelli di esame per la sessione estiva sono fissati alle seguenti date:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mercoledì 1 luglio 2020, alle ore 10, online via Teams&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Venerdì 24 luglio 2020, alle ore 10, online via Teams&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+
+			
+				<category term="comunicazioni" />
+			
+			
+
+			<published>2020-05-25T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/ml1920/comunicazioni/python/</id>
+			<title>Organizzazione didattica online - 2</title>
+			<link href="http://localhost:4000/ml1920/comunicazioni/python/" rel="alternate" type="text/html" title="Organizzazione didattica online - 2" />
+			<updated>2020-03-12T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1920/comunicazioni/python/">&lt;p&gt;Attivata la classe virtuale su Microsoft Teams. Gli studenti iscritti attraverso Delphi dovrebbero essere automaticamente membri della classe: prego verificare. Gli studenti che non fossero in grado di iscriversi attraverso Delphi me lo comunichino via mail, in modo che possa provvedere io direttamente. Nel canale Comunicazioni della classe ho caricato un breve video in cui espongo l’organizzazione del corso in queste nuove condizioni. La chat del canale Comunicazioni dovrebbe essere accessibile, anche in scrittura, a tutti voi e piò essere utilizzata, in tal caso, come canale di comunicazione sulle questioni generali. L’altro canale, Lezioni, sarà utilizzato per inserire materiale didattico e video.&lt;/p&gt;
+</content>
+
+			
+				<category term="comunicazioni" />
+			
+			
+
+			<published>2020-03-12T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/ml1920/comunicazioni/python/</id>
+			<title>Organizzazione didattica online - 1</title>
+			<link href="http://localhost:4000/ml1920/comunicazioni/python/" rel="alternate" type="text/html" title="Organizzazione didattica online - 1" />
+			<updated>2020-03-09T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1920/comunicazioni/python/">&lt;p&gt;Nell’ambito della riorganizzazione della didattica in corso, si prevede l’utilizzo della piattaforma Microsoft Teams come supporto alle attività del corso. Siete pregati, come primo step, di effettuare l’iscrizione al corso di Machine Learning attraverso Delphi. Prego coloro i quali sono impossibilitati a far ciò attraverso Delphi di inviarmi comunque comunicazione del loro interesse a seguire il corso mediante mail a giorgio.gambosi@uniroma2.it.&lt;/p&gt;
+</content>
+
+			
+				<category term="comunicazioni" />
+			
+			
+
+			<published>2020-03-09T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/ml1920/comunicazioni/python/</id>
+			<title>Lezioni annullate COVID-19</title>
+			<link href="http://localhost:4000/ml1920/comunicazioni/python/" rel="alternate" type="text/html" title="Lezioni annullate COVID-19" />
+			<updated>2020-03-04T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1920/comunicazioni/python/">&lt;p&gt;In conseguenza del decreto del CdM che sospende le attività didattiche in tutti gli Atenei fino al 15-3-2020, le lezioni previste per i giorni 5-3, 10-3 e 12-3 sono annullate.&lt;/p&gt;
+</content>
+
+			
+				<category term="comunicazioni" />
+			
+			
+
+			<published>2020-03-04T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/ml1920/lezioni/lezione/</id>
+			<title>Lezione 1</title>
+			<link href="http://localhost:4000/ml1920/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 1" />
+			<updated>2020-03-02T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1920/lezioni/lezione/">
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2020-03-02T00:00:00+01:00</published>
+		</entry>
+	
+</feed>

@@ -1,0 +1,46 @@
+- name: Mail
+  url: "mailto:giorgio.gambosi@uniroma2.it?&subject=Corso%20Machine%20learning"
+  class: icon-mail
+  title: ""
+  
+- name: Twitter
+  url: https://twitter.com/tvmlclass
+  class: icon-twitter
+  title: ""
+
+#- name: GitHub
+#  url: http://github.com/tvml/ml1819
+#  class: icon-github
+#  title: ""
+
+# - name: Facebook
+#   url: http://www.facebook.com/
+#   class: icon-facebook
+#   title: ""
+
+
+
+#- name: YouTube
+#  url: http://www.youtube.com/
+#  class: icon-youtube
+#  title: ""
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil

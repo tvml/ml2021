@@ -1,0 +1,17 @@
+- menu_name: "Contatti"
+
+- name: "Mail"
+  url: "giorgio.gambosi@uniroma2.it"
+  title: "Mail"
+
+- name: "Twitter"
+  url: "twitter.com/tvmlclass"
+  title: "Twitter"
+
+#- name: "Atom"
+#  url: "/atom.xml"
+#  title: "Subscribe to Atom Feed"
+
+#- name: "sitemap.xml"
+#  url: "/sitemap.xml"
+#  title: "Sitemap for Google Webmaster Tools"
