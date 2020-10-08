@@ -25,11 +25,11 @@ author: Giorgio Gambosi
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 #url: 'https://tvml.github.io'
-baseurl: /ml1920
+baseurl: /ml2021
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/tvml/ml1920/edit/gh-pages
+improve_content: https://github.com/tvml/ml2021/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -37,7 +37,7 @@ improve_content: https://github.com/tvml/ml1920/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://tvml.github.io/ml1920/images/'
+urlimg: 'https://tvml.github.io/ml2021/images/'
 
 
 # Logo size is 600x80 pixels
@@ -240,7 +240,7 @@ sass:
 
 
 
-aa: 2019-2020
+aa: 2020-2021
 
 
 side_image: "apple-touch-icon-72x72.png"

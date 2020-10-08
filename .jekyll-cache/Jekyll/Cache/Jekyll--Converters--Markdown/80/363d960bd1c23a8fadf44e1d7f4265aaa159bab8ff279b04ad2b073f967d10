@@ -1,0 +1,46 @@
+I"x<h2 id="programma-tentativo">Programma tentativo</h2>
+
+<ul>
+  <li>Richiami di statistica bayesiana e apprendimento bayesiano <!--`10 ore`--></li>
+  <li>Modelli grafici e reti bayesiane <!--`10 ore`--></li>
+  <li>Supervised learning <!--`30 ore`-->
+    <ul>
+      <li>Regressione (lineare e non) e regolarizzazione</li>
+      <li>Feature selection, cenni</li>
+      <li>Classificazione lineare: LDA di Fisher, perceptron</li>
+      <li>Naive bayes</li>
+      <li>Modelli generativi per la classificazione</li>
+      <li>Modelli discriminativi per la classificazione, regressione logistica</li>
+      <li>Support vector machines, kernel</li>
+      <li>Multilayer perceptron</li>
+      <li>Modelli non parametrici: knn e Parzen windows</li>
+      <li>Processi gaussiani</li>
+      <li>Alberi di decisione</li>
+      <li>Ensemble models: bagging, boosting, random forests, Adaboost, Gradient boosting</li>
+    </ul>
+  </li>
+  <li>Unsupervised learning <!--`20 ore`-->
+    <ul>
+      <li>Clustering: k-means, mixture models<!--, processi di Dirichlet (cenni), spectral clustering --></li>
+      <li>Algoritmo di expectation maximization</li>
+      <li>Dimensionality reduction: Principal component analysis, Probabilistic principal component analysis, Factor analysis<!--, Manifold-->
+  <!-- * Modelli temporali: Hidden Markov models --></li>
+    </ul>
+  </li>
+  <li>Testo, pair matrices e recommenders <!--`10 ore`-->
+    <ul>
+      <li>Latent semantic analysis<!-- , Non negative matrix factorization --></li>
+      <li>Modelli di testo (coppie): Probabilistic latent semantic analysis, Latent Dirichlet allocation, topic models</li>
+    </ul>
+  </li>
+  <li>Metodi montecarlo per l’inferenza approssimata (cenni)</li>
+  <li>Deep learning <!--`10 ore`-->
+    <ul>
+      <li>Convolutional networks</li>
+      <li>Recurrent e LSTM networks</li>
+      <li>Autoencoders e reti generative</li>
+    </ul>
+  </li>
+</ul>
+
+:ET
