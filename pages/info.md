@@ -17,7 +17,8 @@ Le lezioni del corso si svolgono:
 
 Le lezioni avranno inizio martedì 9-3-2021
 
-A meno di indicazioni successive di Ateneo, le lezioni avranno luogo online. In tal caso, l'orario potrà essere modificato in modo concordato con gli studenti.
+A meno di indicazioni successive di Ateneo, le lezioni avranno luogo online. 
+In tal caso, l'orario potrà essere modificato in modo concordato con gli studenti.
 
 
 #### Ricevimento
