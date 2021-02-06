@@ -9,13 +9,24 @@ header: no
 
 ### Dove e quando
 
-Da definire
+Le lezioni del corso si svolgono:
 
+* Martedì h. 11.30-13.30 
+* Giovedì h. 14.00-16.00 
+* Venerdi h. 14.00-16.00 
+
+Le lezioni avranno inizio martedì 9-3-2021
+
+A meno di indicazioni successive di Ateneo, le lezioni avranno luogo online. In tal caso, l'orario potrà essere modificato in modo concordato con gli studenti.
 
 
 #### Ricevimento
 
-Da definire
+Il ricevimento studenti avviene secondo due modalità:
+
+* al termine di tutte le lezioni
+
+* mediante appuntamento concordato, da richiedere eventualmente via mail
 
 ### Esami
 
