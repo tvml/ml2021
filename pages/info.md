@@ -38,7 +38,7 @@ mediante la piattaforma Delphi.
 
 #### Modalità di esame
 
-L'esame prevede la realizzazione di un progetto, assegnato circa un mese prima
+L'esame prevede la realizzazione di un progetto, assegnato tipicamente circa un mese prima
 della conclusione del corso. Il progetto richiede l'applicazione di tecniche di
 Machine Learning a un problema specifico, definito su un dataset fornito dal
 docente, la valutazione e la comparazione della loro efficacia e la scrittura di
