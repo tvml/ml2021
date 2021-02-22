@@ -15,10 +15,8 @@ Le lezioni del corso si svolgono:
 * Giovedì h. 14.00-16.00 
 * Venerdi h. 14.00-16.00 
 
-Le lezioni avranno inizio martedì 9-3-2021
-
-A meno di indicazioni successive di Ateneo, le lezioni avranno luogo online. 
-In tal caso, l'orario potrà essere modificato in modo concordato con gli studenti.
+Le lezioni avranno inizio martedì 9-3-2021 e avranno luogo online. Si potranno eventualmente concordare,
+se necessario, degli incontri di persona.
 
 
 #### Ricevimento
