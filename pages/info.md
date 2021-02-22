@@ -18,8 +18,8 @@ Le lezioni del corso si svolgono:
 Le lezioni avranno inizio martedì 9-3-2021 e avranno luogo online. Si potranno eventualmente concordare,
 se necessario, degli incontri di persona.
 
-Il canale Teams relativo al corso è associato all'URL
-https://teams.microsoft.com/l/team/19%3a6361b252b2ea4bd88871383515bd3496%40thread.tacv2/conversations?groupId=9760c9fc-e15d-4f02-8656-10f5f0d28da8&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e
+Il canale Teams relativo al corso è associato a questa [URL](https://teams.microsoft.com/l/team/19%3a6361b252b2ea4bd88871383515bd3496%40thread.tacv2/conversations?groupId=9760c9fc-e15d-4f02-8656-10f5f0d28da8&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e)
+
 
 
 #### Ricevimento
