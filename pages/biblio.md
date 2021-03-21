@@ -20,6 +20,8 @@ Introduzioni a Python e ai temi del ML liberamente disponibili su Internet
 ### Testi di Machine Learning liberi
 Testi di Machine Learning liberamente disponibili su Internet 
 
+* K. P. Murphy. [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
+
 * D. Barber. [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 
 * D. MacKay. [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itprnn/book.html)
