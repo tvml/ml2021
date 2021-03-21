@@ -20,7 +20,7 @@ Introduzioni a Python e ai temi del ML liberamente disponibili su Internet
 ### Testi di Machine Learning liberi
 Testi di Machine Learning liberamente disponibili su Internet 
 
-* D. Barber. [Bayesian Reasoning and Machine Learning]([http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
+* D. Barber. [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 
 * D. MacKay. [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itprnn/book.html)
 
