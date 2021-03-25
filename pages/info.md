@@ -58,4 +58,18 @@ offerte da librerie software ampiamente utilizzate nel settore.
 
 ### Materiale didattico
 
-Da definire
+Il testo di riferimento principale è il seguente:
+`M. Bishop "Pattern Recognition and Machine Learning", Springer 2006`{:.alert}
+
+Alcuni temi trattati potranno fare riferimento a `I. Goodfellow, Y. Begio, A. Courville "Deep Learning", MIT Press 2016`{:.alert} e a `K.P. Murphy "Machine Learning: a probabilistic perspective", MIT Press 2012`{:.alert}. Il primo libro libro è liberamente disponibile sul web, mentre per il secondo è attualmente liberamente disponibile un draft della seconda edizione (gli indirizzi precisi sono forniti nella sezione Bibliografia). 
+
+Nella medesima sezione sono inoltre suggeriti, per chi fosse interessato, altri testi sull'argomento liberamente disponibili in
+formato pdf sul web.
+
+Il materiale didattico messo a disposizione è parzialmente diverso per:
+
+* gli studenti del CdLM in Informatica e tutti coloro (Matematca, Fisica) i quali mutuano la totalità del corso, per tutti i 9 cfu. In questo caso, 
+il materiale di riferimento comprende la registrazione delle lezioni svolte, le unità video di approfondimento, le slide in versione 
+estesa (o le note corrispondenti)
+
+* gli studenti che mutuano parzialmente i contenuti del corso, per 6 cfu (Bioinformatica, Ingegneria Gestionale). In questo caso, il materiale di riferimento si limita alla registrazione delle lezioni svolte e alle slide in versione breve
