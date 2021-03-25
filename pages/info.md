@@ -11,9 +11,10 @@ header: no
 
 Le lezioni del corso si svolgono:
 
-* Martedì h. 11.30-13.30 
 * Giovedì h. 14.00-16.00 
 * Venerdi h. 14.00-16.00 
+
+eventuali lezioni di recupero potranno essere di volta in volta fissate nello slot del Martedì h. 11.30-13.30.
 
 Le lezioni avranno inizio giovedì 11-3-2021 e avranno luogo online. Si potranno eventualmente concordare,
 se necessario, degli incontri di persona.
@@ -68,8 +69,8 @@ formato pdf sul web.
 
 Il materiale didattico messo a disposizione è parzialmente diverso per:
 
-* gli studenti del CdLM in Informatica e tutti coloro (Matematca, Fisica) i quali mutuano la totalità del corso, per tutti i 9 cfu. In questo caso, 
+* gli studenti del CdLM in Informatica e tutti coloro (Matematica, Fisica) i quali mutuano la totalità del corso, per tutti i 9 cfu. In questo caso, 
 il materiale di riferimento comprende la registrazione delle lezioni svolte, le unità video di approfondimento, le slide in versione 
 estesa (o le note corrispondenti)
 
-* gli studenti che mutuano parzialmente i contenuti del corso, per 6 cfu (Bioinformatica, Ingegneria Gestionale). In questo caso, il materiale di riferimento si limita alla registrazione delle lezioni svolte e alle slide in versione breve
+* gli studenti che mutuano parzialmente i contenuti del corso, per 6 cfu (Bioinformatica, Ingegneria Gestionale). In questo caso, il materiale di riferimento si limita alla registrazione delle lezioni svolte e alle slide in versione breve. Si invitano comunque gli studenti di questa tipologia interessati agli argomenti trattati a fare uso dell'intero materiale disponibile, e in particolare alle unità video di approfondimento
