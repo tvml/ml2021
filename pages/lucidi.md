@@ -15,6 +15,7 @@ header: no
 1. [`Inferenza di modelli.`{:.filelink}]({{ site.baseurl }}{%link slides/3-modinf-slides.pdf %}) Richiami di inferenza di modelli
 1. [`Metodi Montecarlo.`{:.filelink}]({{ site.baseurl }}{%link slides/4-sampling-slides.pdf %}) Richiami di metodi di sampling e MCMC
 1. [`Fitting.`{:.filelink}]({{ site.baseurl }}{%link slides/5-fitting-slides.pdf %}) Fitting di funzioni
+1. [`Modelli generativi.`{:.filelink}]({{ site.baseurl }}{%link slides/6-probclass-generative-slides.pdf %}) Modelli generativi per classificazione
 
 
 
@@ -25,3 +26,4 @@ header: no
 1. [`Inferenza di modelli.`{:.filelink}]({{ site.baseurl }}{%link slides/3-modinf-short.pdf %}) Richiami di inferenza di modelli
 1. [`Metodi Montecarlo.`{:.filelink}]({{ site.baseurl }}{%link slides/4-sampling-short.pdf %}) Richiami di metodi di sampling e MCMC
 1. [`Fitting.`{:.filelink}]({{ site.baseurl }}{%link slides/5-fitting-short.pdf %}) Fitting di funzioni
+1. [`Modelli generativi.`{:.filelink}]({{ site.baseurl }}{%link slides/6-probclass-generative-short.pdf %}) Modelli generativi per classificazione
