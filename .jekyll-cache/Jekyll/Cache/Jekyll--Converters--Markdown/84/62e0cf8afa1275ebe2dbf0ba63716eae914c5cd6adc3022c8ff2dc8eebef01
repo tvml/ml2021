@@ -1,0 +1,62 @@
+I"�<h3 id="testi-introduttivi-liberi">Testi introduttivi liberi</h3>
+<p>Introduzioni a Python e ai temi del ML liberamente disponibili su Internet</p>
+
+<ul>
+  <li>A.B.Downey. <a href="http://greenteapress.com/wp/think-bayes/">Think Bayes</a></li>
+  <li>A.B.Downey. <a href="http://greenteapress.com/wp/think-python-2e/">Think Python</a></li>
+  <li>A.B.Downey. <a href="http://greenteapress.com/wp/think-stats-2e/">Think Stats</a></li>
+</ul>
+
+<h3 id="testi-di-machine-learning-liberi">Testi di Machine Learning liberi</h3>
+<p>Testi di Machine Learning liberamente disponibili su Internet</p>
+
+<ul>
+  <li>
+    <p>K. P. Murphy. <a href="https://probml.github.io/pml-book/book1.html">Probabilistic Machine Learning: An Introduction</a></p>
+  </li>
+  <li>
+    <p>D. Barber. <a href="http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage">Bayesian Reasoning and Machine Learning</a></p>
+  </li>
+  <li>
+    <p>D. MacKay. <a href="http://www.inference.org.uk/itprnn/book.html">Information Theory, Inference, and Learning Algorithms</a></p>
+  </li>
+  <li>
+    <p>T. Hastie, R. Tibshirani, J. Friedman. <a href="https://web.stanford.edu/~hastie/ElemStatLearn/">The Elements of Statistical Learning</a></p>
+  </li>
+  <li>
+    <p>I. Goodfellow, Y. Bengio, A. Courville. <a href="http://www.deeplearningbook.org/">Deep Learning</a></p>
+  </li>
+</ul>
+
+<h3 id="documentazione-tecnica">Documentazione tecnica</h3>
+<p>Manuali per l’utilizzo di strumenti e librerie software</p>
+
+<ul>
+  <li>Documentazione distribuzione <a href="https://conda.io/docs/user-guide/index.html">Anaconda</a></li>
+  <li>Documentazione editor IDE <a href="https://pythonhosted.org/spyder/">Spyder</a></li>
+  <li>Documentazione ambiente <a href="https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/">Jupyter/IPython Notebook</a></li>
+  <li>Doumentazione ambiente <a href="https://jupyterlab.readthedocs.io/en/stable/">JupyterLab</a></li>
+  <li>Documentazione dei package <a href="https://docs.scipy.org/doc/">Scipy e Numpy</a></li>
+  <li>Documentazione package <a href="https://matplotlib.org/users/index.html">Matplotlib</a></li>
+  <li>Documentazione package <a href="https://pandas.pydata.org">Pandas</a></li>
+  <li>Documentazione package <a href="https://docs.pymc.io">Pymc3</a></li>
+  <li><a href="/ml2021/ml2021/varie/python_cheat_sheet.pdf"><code class="language-plaintext filelink highlighter-rouge">Cheat sheet Python</code></a></li>
+  <li><a href="/ml2021/ml2021/varie/jupyter_cheat_sheet.pdf"><code class="language-plaintext filelink highlighter-rouge">Cheat sheet Jupyter</code></a></li>
+  <li><a href="/ml2021/ml2021/varie/numpy_cheat_sheet.pdf"><code class="language-plaintext filelink highlighter-rouge">Cheat sheet Numpy</code></a></li>
+  <li><a href="/ml2021/ml2021/varie/pandas_cheat_sheet.pdf"><code class="language-plaintext filelink highlighter-rouge">Cheat sheet Pandas</code></a></li>
+  <li><a href="/ml2021/ml2021/varie/matplotlib_cheat_sheet.pdf"><code class="language-plaintext filelink highlighter-rouge">Cheat sheet Matplotlib</code></a></li>
+  <li><a href="/ml2021/ml2021/varie/seaborn_cheat_sheet.pdf"><code class="language-plaintext filelink highlighter-rouge">Cheat sheet Seaborn</code></a></li>
+  <li><a href="/ml2021/ml2021/varie/scipy_cheat_sheet.pdf"><code class="language-plaintext filelink highlighter-rouge">Cheat sheet Scipy</code></a></li>
+  <li><a href="/ml2021/ml2021/varie/sklearn_cheat_sheet.pdf"><code class="language-plaintext filelink highlighter-rouge">Cheat sheet Sklearn</code></a></li>
+  <li><a href="/ml2021/ml2021/varie/keras_cheat_sheet.pdf"><code class="language-plaintext filelink highlighter-rouge">Cheat sheet Keras</code></a></li>
+</ul>
+
+<h3 id="testi-non-tecnici">Testi non tecnici</h3>
+<p>Per chi fosse interessato a testi a carattere non tecnico, inerenti le tematiche del corso, si suggeriscono i titoli seguenti:</p>
+
+<ul>
+  <li>P. Domingos “L’Algoritmo Definitivo: La macchina che impara da sola e il futuro del nostro mondo” Bollati  Boringhieri 2016</li>
+  <li>C. O’Neil “Armi di distruzione matematica”  Bompiani 2017</li>
+  <li>S. Bertsch McGrayne “The Theory That Would Not Die: How Bayes’ Rule Cracked the Enigma Code, Hunted Down Russian Submarines, and Emerged Triumphant from Two Centuries” Yale Univ. Press 2012</li>
+</ul>
+:ET

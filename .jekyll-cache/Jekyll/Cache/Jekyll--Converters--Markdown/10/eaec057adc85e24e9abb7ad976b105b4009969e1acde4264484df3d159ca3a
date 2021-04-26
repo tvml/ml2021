@@ -1,0 +1,78 @@
+I"�<h3 id="dove-e-quando">Dove e quando</h3>
+
+<p>Le lezioni del corso si svolgono:</p>
+
+<ul>
+  <li>Giovedì h. 14.00-16.00</li>
+  <li>Venerdi h. 14.00-16.00</li>
+</ul>
+
+<p>eventuali lezioni di recupero potranno essere di volta in volta fissate nello slot del Martedì h. 11.30-13.30.</p>
+
+<p>Le lezioni avranno inizio giovedì 11-3-2021 e avranno luogo online. Si potranno eventualmente concordare,
+se necessario, degli incontri di persona.</p>
+
+<p>Il canale Teams relativo al corso è associato a questa <a href="https://teams.microsoft.com/l/team/19%3a6361b252b2ea4bd88871383515bd3496%40thread.tacv2/conversations?groupId=9760c9fc-e15d-4f02-8656-10f5f0d28da8&amp;tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e">URL</a></p>
+
+<h4 id="ricevimento">Ricevimento</h4>
+
+<p>Il ricevimento studenti avviene secondo due modalità:</p>
+
+<ul>
+  <li>
+    <p>al termine di tutte le lezioni</p>
+  </li>
+  <li>
+    <p>mediante appuntamento concordato, da richiedere eventualmente via mail</p>
+  </li>
+</ul>
+
+<h3 id="esami">Esami</h3>
+
+<h4 id="appelli-di-esame">Appelli di esame</h4>
+
+<p>Sono previsti due appelli di esame per ogni sessione. E’ richiesta l’iscrizione
+mediante la piattaforma Delphi.</p>
+
+<h4 id="modalità-di-esame">Modalità di esame</h4>
+
+<p>L’esame prevede la realizzazione di un progetto, assegnato tipicamente circa un mese prima
+della conclusione del corso. Il progetto richiede l’applicazione di tecniche di
+Machine Learning a un problema specifico, definito su un dataset fornito dal
+docente, la valutazione e la comparazione della loro efficacia e la scrittura di
+una relazione. A meno di eccezioni concordate con il docente, si richiede che il
+progetto sia realizzato per coppie di studenti.</p>
+
+<p>La prova di esame consiste nella illustrazione del lavoro fatto, facendo
+riferimento alla relazione scritta. E’ inoltre previsto un colloquio orale, per
+ogni singolo studente, incentrato sui contenuti del corso.</p>
+
+<h4 id="progetto">Progetto</h4>
+
+<p>Il progetto prevede la scrittura, utilizzando il linguaggio Python, di un
+programma che richiami e integri tra loro funzionalità di Machine Learning
+offerte da librerie software ampiamente utilizzate nel settore.</p>
+
+<h3 id="materiale-didattico">Materiale didattico</h3>
+
+<p>Il testo di riferimento principale è il seguente:
+<code class="language-plaintext alert highlighter-rouge">M. Bishop "Pattern Recognition and Machine Learning", Springer 2006</code></p>
+
+<p>Alcuni temi trattati potranno fare riferimento a <code class="language-plaintext alert highlighter-rouge">I. Goodfellow, Y. Begio, A. Courville "Deep Learning", MIT Press 2016</code> e a <code class="language-plaintext alert highlighter-rouge">K.P. Murphy "Machine Learning: a probabilistic perspective", MIT Press 2012</code>. Il primo libro libro è liberamente disponibile sul web, mentre per il secondo è attualmente liberamente disponibile un draft della seconda edizione (gli indirizzi precisi sono forniti nella sezione Bibliografia).</p>
+
+<p>Nella medesima sezione sono inoltre suggeriti, per chi fosse interessato, altri testi sull’argomento liberamente disponibili in
+formato pdf sul web.</p>
+
+<p>Il materiale didattico messo a disposizione è parzialmente diverso per:</p>
+
+<ul>
+  <li>
+    <p>gli studenti del CdLM in Informatica e tutti coloro (Matematica, Fisica) i quali mutuano la totalità del corso, per tutti i 9 cfu. In questo caso, 
+il materiale di riferimento comprende la registrazione delle lezioni svolte, le unità video di approfondimento, le slide in versione 
+estesa (o le note corrispondenti)</p>
+  </li>
+  <li>
+    <p>gli studenti che mutuano parzialmente i contenuti del corso, per 6 cfu (Bioinformatica, Ingegneria Gestionale). In questo caso, il materiale di riferimento si limita alla registrazione delle lezioni svolte e alle slide in versione breve. Si invitano comunque gli studenti di questa tipologia interessati agli argomenti trattati a fare uso dell’intero materiale disponibile, e in particolare alle unità video di approfondimento</p>
+  </li>
+</ul>
+:ET
