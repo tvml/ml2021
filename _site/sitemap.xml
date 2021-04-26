@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 31 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 33 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2021/404.html</loc>
+	<loc>/ml2021/404.html</loc>
 	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,26 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2021/blog/archive/</loc>
+	<loc>/ml2021/blog/archive/</loc>
 	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2021/atom.xml</loc>
-	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,9 +37,26 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2021/biblio/</loc>
+	<loc>/ml2021/atom.xml</loc>
 	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>/ml2021/biblio/</loc>
+	
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,24 +69,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2021/codici/</loc>
+	<loc>/ml2021/codici/</loc>
 	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2021/comunicazioni/</loc>
-	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -99,24 +84,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2021/contact/</loc>
+	<loc>/ml2021/comunicazioni/</loc>
 	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2021/dataset/</loc>
-	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -129,24 +99,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2021/feed.xml</loc>
+	<loc>/ml2021/contact/</loc>
 	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2021/humans.txt</loc>
-	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -159,24 +114,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2021/blog/</loc>
+	<loc>/ml2021/dataset/</loc>
 	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2021/</loc>
-	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -189,24 +129,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2021/info/</loc>
+	<loc>/ml2021/feed.xml</loc>
 	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2021/lezioni/</loc>
-	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -219,24 +144,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2021/lucidi/</loc>
+	<loc>/ml2021/humans.txt</loc>
 	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2021/note/</loc>
-	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -249,24 +159,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2021/progetti/</loc>
+	<loc>/ml2021/blog/</loc>
 	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2021/programma/</loc>
-	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -279,43 +174,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2021/redirect-page/</loc>
+	<loc>/ml2021/</loc>
 	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2021/robots.txt</loc>
-	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2021/search/</loc>
-	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -328,24 +189,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2021/sitemap.xml</loc>
+	<loc>/ml2021/info/</loc>
 	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2021/store/</loc>
-	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -358,9 +204,99 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2021/style.css</loc>
+	<loc>/ml2021/lezioni/</loc>
 	
-		<lastmod>2021-02-05T18:32:36+01:00</lastmod>
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/lucidi/</loc>
+	
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/note/</loc>
+	
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/progetti/</loc>
+	
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/programma/</loc>
+	
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/redirect-page/</loc>
+	
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/robots.txt</loc>
+	
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -376,9 +312,283 @@
 	
 
 	
+	<url>
+	<loc>/ml2021/search/</loc>
+	
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/sitemap.xml</loc>
+	
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/store/</loc>
+	
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/style.css</loc>
+	
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>/ml2021/blog/page2/</loc>
+	
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/blog/page3/</loc>
+	
+		<lastmod>2021-04-26T19:57:29+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
 
 
-<!-- Posts: 0 links with priority=0.5, changefreq=monthly -->
+<!-- Posts: 12 links with priority=0.5, changefreq=monthly -->
+
+	
+	<url>
+	<loc>/ml2021/lezioni/lezione/</loc>
+	
+		<lastmod>2021-04-22T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/lezioni/lezione/</loc>
+	
+		<lastmod>2021-04-20T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/lezioni/lezione/</loc>
+	
+		<lastmod>2021-04-15T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/lezioni/lezione/</loc>
+	
+		<lastmod>2021-04-09T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/lezioni/lezione/</loc>
+	
+		<lastmod>2021-04-08T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/lezioni/lezione/</loc>
+	
+		<lastmod>2021-04-01T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/lezioni/lezione/</loc>
+	
+		<lastmod>2021-03-26T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/lezioni/lezione/</loc>
+	
+		<lastmod>2021-03-25T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/lezioni/lezione/</loc>
+	
+		<lastmod>2021-03-19T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/lezioni/lezione/</loc>
+	
+		<lastmod>2021-03-18T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/lezioni/lezione/</loc>
+	
+		<lastmod>2021-03-12T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ml2021/lezioni/lezione/</loc>
+	
+		<lastmod>2021-03-11T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
 
 
 </urlset>
