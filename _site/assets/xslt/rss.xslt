@@ -9,8 +9,8 @@
 			<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>RSS Feed (Styled)</title>
-	<link rel="stylesheet" type="text/css" href="http://localhost:4000/ml2021/assets/css/styles_feeling_responsive.css" />
-	<script src="http://localhost:4000/ml2021/assets/js/modernizr.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="/ml2021/assets/css/styles_feeling_responsive.css" />
+	<script src="/ml2021/assets/js/modernizr.min.js"></script>
 
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
   <script>
@@ -36,67 +36,67 @@
 
 
 	
-	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png" />
+	<link rel="icon" sizes="32x32" href="/assets/img/favicon-32x32.png" />
 
 
 
 
 	
-	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/touch-icon-192x192.png" />
+	<link rel="icon" sizes="192x192" href="/assets/img/touch-icon-192x192.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/img/apple-touch-icon-180x180-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/img/apple-touch-icon-152x152-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/img/apple-touch-icon-144x144-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/img/apple-touch-icon-120x120-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/img/apple-touch-icon-114x114-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/img/apple-touch-icon-76x76-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/img/apple-touch-icon-72x72-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png" />	
+	<link rel="apple-touch-icon-precomposed" href="/assets/img/apple-touch-icon-precomposed.png" />	
 
 
 
 
 	
-	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/msapplication_tileimage.png" />
+	<meta name="msapplication-TileImage" content="/assets/img/msapplication_tileimage.png" />
 
 
 
@@ -111,7 +111,7 @@
 	
 	<meta property="og:title" content="RSS Feed (Styled)" />
 	<meta property="og:description" content="Informazioni, comunicazioni e materiali relativi al corso di Machine learning, CdLM in Informatica, Università di Roma Tor Vergata." />
-	<meta property="og:url" content="http://localhost:4000/ml2021//assets/xslt/rss.xslt" />
+	<meta property="og:url" content="/ml2021//assets/xslt/rss.xslt" />
 	<meta property="og:site_name" content="Machine learning" />
 	
 
@@ -120,7 +120,7 @@
 	<!-- Search Engine Optimization -->
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/ml2021/humans.txt" />
+	<link type="text/plain" rel="author" href="/ml2021/humans.txt" />
 
 	
 
@@ -135,7 +135,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000/ml2021" class="icon-tree"> Machine learning</a></h1>
+      <h1 class="show-for-small-only"><a href="/ml2021" class="icon-tree"> Machine learning</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -229,7 +229,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2021/">Start</a></li>
+              <li><a href="/ml2021/">Start</a></li>
               <li class="divider"></li>
 
             
@@ -244,7 +244,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2021/info/">Informazioni</a></li>
+              <li><a href="/ml2021/info/">Informazioni</a></li>
               <li class="divider"></li>
 
             
@@ -259,7 +259,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2021/programma/">programma</a></li>
+              <li><a href="/ml2021/programma/">programma</a></li>
               <li class="divider"></li>
 
             
@@ -274,7 +274,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2021/lucidi/">lucidi</a></li>
+              <li><a href="/ml2021/lucidi/">lucidi</a></li>
               <li class="divider"></li>
 
             
@@ -289,7 +289,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2021/note/">note</a></li>
+              <li><a href="/ml2021/note/">note</a></li>
               <li class="divider"></li>
 
             
@@ -304,7 +304,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2021/codici/">codici</a></li>
+              <li><a href="/ml2021/codici/">codici</a></li>
               <li class="divider"></li>
 
             
@@ -319,7 +319,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2021/dataset/">dataset</a></li>
+              <li><a href="/ml2021/dataset/">dataset</a></li>
               <li class="divider"></li>
 
             
@@ -334,7 +334,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2021/comunicazioni/">Comunicazioni</a></li>
+              <li><a href="/ml2021/comunicazioni/">Comunicazioni</a></li>
               <li class="divider"></li>
 
             
@@ -349,7 +349,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2021/lezioni/">Lezioni</a></li>
+              <li><a href="/ml2021/lezioni/">Lezioni</a></li>
               <li class="divider"></li>
 
             
@@ -364,7 +364,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2021/progetti/">Progetti</a></li>
+              <li><a href="/ml2021/progetti/">Progetti</a></li>
               <li class="divider"></li>
 
             
@@ -379,7 +379,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2021/store/">Store</a></li>
+              <li><a href="/ml2021/store/">Store</a></li>
               <li class="divider"></li>
 
             
@@ -394,7 +394,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2021/biblio/">Bibliografia</a></li>
+              <li><a href="/ml2021/biblio/">Bibliografia</a></li>
               <li class="divider"></li>
 
             
@@ -412,9 +412,9 @@
 	<div id="masthead-no-image-header">
 		<div class="row">
 			<div class="small-12 columns">
-				<a id="logo" href="http://localhost:4000" title="Machine learning – Università di Roma Tor Vergata">
+				<a id="logo" href="" title="Machine learning – Università di Roma Tor Vergata">
 				<p style="text-align:center;">
-					<img src="http://localhost:4000/ml2021/assets/img/" alt="Machine learning – Università di Roma Tor Vergata">
+					<img src="/ml2021/assets/img/" alt="Machine learning – Università di Roma Tor Vergata">
 				</p>
 				</a>
 			</div><!-- /.small-12.columns -->
@@ -646,7 +646,7 @@
 		
 
 
-<script src="http://localhost:4000/ml2021/assets/js/javascript.min.js"></script>
+<script src="/ml2021/assets/js/javascript.min.js"></script>
 
 
 

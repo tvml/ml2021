@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/ml2021/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/ml2021/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://localhost:4000/ml2021/</id>
+	<id>/ml2021/</id>
 	<title>Machine learning</title>
-	<updated>2021-02-05T18:32:36+01:00</updated>
+	<updated>2021-04-26T19:57:29+02:00</updated>
 
 	<subtitle>Informazioni, comunicazioni e materiali relativi al corso di Machine learning, CdLM in Informatica, Università di Roma Tor Vergata.</subtitle>
 
@@ -19,10 +19,310 @@
 		</author>
 	
 
-	<link href="http://localhost:4000/ml2021/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://localhost:4000/ml2021/" rel="alternate" type="text/html" />
+	<link href="/ml2021/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="/ml2021/" rel="alternate" type="text/html" />
 
-	<generator uri="http://jekyllrb.com" version="4.1.1">Jekyll</generator>
+	<generator uri="http://jekyllrb.com" version="4.2.0">Jekyll</generator>
 
+	
+		<entry>
+			<id>/ml2021/lezioni/lezione/</id>
+			<title>Lezione 12</title>
+			<link href="/ml2021/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 12" />
+			<updated>2021-04-22T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="/ml2021/lezioni/lezione/">&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/sites/GAMBOSI-8066132-MACHINE_LEARNING/Documenti%20condivisi/Lezioni/lezioni%20registrate/Lezione_ML_220421.mp4&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2021-04-22T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>/ml2021/lezioni/lezione/</id>
+			<title>Lezione 11</title>
+			<link href="/ml2021/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 11" />
+			<updated>2021-04-20T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="/ml2021/lezioni/lezione/">&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/sites/GAMBOSI-8066132-MACHINE_LEARNING/Documenti%20condivisi/Lezioni/lezioni%20registrate/Lezione_ML_200421.mp4&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2021-04-20T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>/ml2021/lezioni/lezione/</id>
+			<title>Lezione 10</title>
+			<link href="/ml2021/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 10" />
+			<updated>2021-04-15T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="/ml2021/lezioni/lezione/">&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/sites/GAMBOSI-8066132-MACHINE_LEARNING/Documenti%20condivisi/Lezioni/lezioni%20registrate/Lezione_ML_150421.mp4&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2021-04-15T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>/ml2021/lezioni/lezione/</id>
+			<title>Lezione 9</title>
+			<link href="/ml2021/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 9" />
+			<updated>2021-04-09T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="/ml2021/lezioni/lezione/">&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/sites/GAMBOSI-8066132-MACHINE_LEARNING/Documenti%20condivisi/Lezioni/lezioni%20registrate/Lezione_ML_090421.mp4&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2021-04-09T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>/ml2021/lezioni/lezione/</id>
+			<title>Lezione 8</title>
+			<link href="/ml2021/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 8" />
+			<updated>2021-04-08T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="/ml2021/lezioni/lezione/">&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/sites/GAMBOSI-8066132-MACHINE_LEARNING/Documenti%20condivisi/Lezioni/lezioni%20registrate/Lezione_ML_080421.mp4&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2021-04-08T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>/ml2021/lezioni/lezione/</id>
+			<title>Lezione 7</title>
+			<link href="/ml2021/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 7" />
+			<updated>2021-04-01T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="/ml2021/lezioni/lezione/">&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/sites/GAMBOSI-8066132-MACHINE_LEARNING/Documenti%20condivisi/Lezioni/lezioni%20registrate/Lezione_ML_010421.mp4&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2021-04-01T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>/ml2021/lezioni/lezione/</id>
+			<title>Lezione 6</title>
+			<link href="/ml2021/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 6" />
+			<updated>2021-03-26T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="/ml2021/lezioni/lezione/">&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/sites/GAMBOSI-8066132-MACHINE_LEARNING/Documenti%20condivisi/Lezioni/lezioni%20registrate/Lezione_ML_260321.mp4&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2021-03-26T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>/ml2021/lezioni/lezione/</id>
+			<title>Lezione 5</title>
+			<link href="/ml2021/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 5" />
+			<updated>2021-03-25T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="/ml2021/lezioni/lezione/">&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/sites/GAMBOSI-8066132-MACHINE_LEARNING/Documenti%20condivisi/Lezioni/lezioni%20registrate/Lezione_ML_250321.mp4&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2021-03-25T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>/ml2021/lezioni/lezione/</id>
+			<title>Lezione 4</title>
+			<link href="/ml2021/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 4" />
+			<updated>2021-03-19T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="/ml2021/lezioni/lezione/">&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/sites/GAMBOSI-8066132-MACHINE_LEARNING/Documenti%20condivisi/Lezioni/lezioni%20registrate/Lezione_ML_190321.mp4&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2021-03-19T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>/ml2021/lezioni/lezione/</id>
+			<title>Lezione 3</title>
+			<link href="/ml2021/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 3" />
+			<updated>2021-03-18T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="/ml2021/lezioni/lezione/">&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/sites/GAMBOSI-8066132-MACHINE_LEARNING/Documenti%20condivisi/Lezioni/lezioni%20registrate/Lezione_ML_180321.mp4&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2021-03-18T00:00:00+01:00</published>
+		</entry>
 	
 </feed>
