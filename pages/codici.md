@@ -9,7 +9,7 @@ header: no
 
 1. [`mnist`{:.codelink}]({{ site.baseurl }}{%link codici/mlp_mnist_tf.ipynb %}) Riconoscimento caratteri (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/mlp_mnist_tf.ipynb)
 
-<!--1. [`loss`{:.codelink}]({{ site.baseurl }}{%link codici/loss.ipynb %}) Funzione loss e gradient descent(notebook) [In colab](https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/loss.ipynb)
+1. [`loss`{:.codelink}]({{ site.baseurl }}{%link codici/loss.ipynb %}) Funzione loss e gradient descent(notebook) [In colab](https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/loss.ipynb)
 
 1. [`beta_bernoulli`{:.codelink}]({{ site.baseurl }}{%link codici/BetaBernoulli.ipynb %}) Modello Beta-Bernoulli (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/BetaBernoulli.ipynb)
 
@@ -47,4 +47,4 @@ header: no
 
 1. [`linear regression.`{:.codelink}]({{ site.baseurl }}{%link codici/linear_regression.ipynb %}) Metodi di regressione lineare(notebook) [In colab](https://nbviewer.jupyter.org/github/tvml/ml2021/blob/master/codici/linear_regression.ipynb)
 
-1. [`regression.`{:.codelink}]({{ site.baseurl }}{%link codici/regression.ipynb %}) Esempi di regressione mediante scikit-learn (notebook) [In colab](https://nbviewer.jupyter.org/github/tvml/ml2021/blob/master/codici/regression.ipynb)-->
+1. [`regression.`{:.codelink}]({{ site.baseurl }}{%link codici/regression.ipynb %}) Esempi di regressione mediante scikit-learn (notebook) [In colab](https://nbviewer.jupyter.org/github/tvml/ml2021/blob/master/codici/regression.ipynb)
