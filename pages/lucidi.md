@@ -18,6 +18,7 @@ header: no
 1. [`Modelli generativi.`{:.filelink}]({{ site.baseurl }}{%link slides/6-probclass-generative-slides.pdf %}) Modelli generativi per classificazione
 1. [`Regressione lineare.`{:.filelink}]({{ site.baseurl }}{%link slides/7-linregr-slides.pdf %}) Regressione lineare
 1. [`Regressione non parametrica.`{:.filelink}]({{ site.baseurl }}{%link slides/8-nonparam-regr-slides.pdf %}) Regressione non parametrica
+1. [`Classificazione lineare.`{:.filelink}]({{ site.baseurl }}{%link slides/9-linclass-slides.pdf %}) Classificazione lineare
 
 
 
@@ -31,3 +32,4 @@ header: no
 1. [`Modelli generativi.`{:.filelink}]({{ site.baseurl }}{%link slides/6-probclass-generative-short.pdf %}) Modelli generativi per classificazione
 1. [`Regressione lineare.`{:.filelink}]({{ site.baseurl }}{%link slides/7-linregr-short.pdf %}) Regressione lineare
 1. [`Regressione non parametrica.`{:.filelink}]({{ site.baseurl }}{%link slides/8-nonparam-regr-short.pdf %}) Regressione non parametrica
+1. [`Classificazione lineare.`{:.filelink}]({{ site.baseurl }}{%link slides/9-linclass-short.pdf %}) Classificazione lineare
