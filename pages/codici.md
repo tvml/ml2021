@@ -31,20 +31,28 @@ header: no
 
 1. [`total factor productivity.`{:.codelink}]({{ site.baseurl }}{%link codici/tfp.ipynb %}) Esempio di sampling su modello bayesiano gerarchico (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/tfp.ipynb)
 
-1. [`linregr_samples.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_samples.ipynb %}) Apprendimento sequenziale in bayesian regression (notebook) [In colab](https://nbviewer.jupyter.org/github/tvml/ml2021/blob/master/codici/linregr_samples.ipynb)
+1. [`linregr_samples.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_samples.ipynb %}) Apprendimento sequenziale in bayesian regression (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/linregr_samples.ipynb)
 
-1. [`linregr_predict.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_predict.ipynb %}) Distribuzione predittiva in fully bayesian regression (notebook) [In colab](https://nbviewer.jupyter.org/github/tvml/ml2021/blob/master/codici/linregr_predict.ipynb)
+1. [`linregr_predict.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_predict.ipynb %}) Distribuzione predittiva in fully bayesian regression (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/linregr_predict.ipynb)
 
-1. [`equiv_kernel.`{:.codelink}]({{ site.baseurl }}{%link codici/equiv_kernel.ipynb %}) Calcolo e visualizzazione del kernel equivalente (notebook) [In colab](https://nbviewer.jupyter.org/github/tvml/ml2021/blob/master/codici/equiv_kernel.ipynb)
+1. [`equiv_kernel.`{:.codelink}]({{ site.baseurl }}{%link codici/equiv_kernel.ipynb %}) Calcolo e visualizzazione del kernel equivalente (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/equiv_kernel.ipynb)
 
-1. [`linregr_gradient.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_gradient.ipynb %}) Regressione lineare con gradiente (notebook) [In colab](https://nbviewer.jupyter.org/github/tvml/ml2021/blob/master/codici/linregr_gradient.ipynb)
+1. [`linregr_gradient.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_gradient.ipynb %}) Regressione lineare con gradiente (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/linregr_gradient.ipynb)
 
-1. [`MCMC.`{:.codelink}]({{ site.baseurl }}{%link codici/MCMC.ipynb %}) Esempio di applicazione di MCMC (notebook) [In colab](https://nbviewer.jupyter.org/github/tvml/ml2021/blob/master/codici/MCMC.ipynb)
+1. [`MCMC.`{:.codelink}]({{ site.baseurl }}{%link codici/MCMC.ipynb %}) Esempio di applicazione di MCMC (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/MCMC.ipynb)
 
-1. [`linregr_mc.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_mc.ipynb %}) Regressione lineare mediante inferenza MCMC in pymc3 (notebook) [In colab](https://nbviewer.jupyter.org/github/tvml/ml2021/blob/master/codici/linregr_mc.ipynb)
+1. [`linregr_mc.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_mc.ipynb %}) Regressione lineare mediante inferenza MCMC in pymc3 (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/linregr_mc.ipynb)
 
-1. [`Gaussian process.`{:.codelink}]({{ site.baseurl }}{%link codici/gp.ipynb %}) Regressione mediante processi gaussiani (notebook) [In colab](https://nbviewer.jupyter.org/github/tvml/ml2021/blob/master/codici/gp.ipynb)
+1. [`Gaussian process.`{:.codelink}]({{ site.baseurl }}{%link codici/gp.ipynb %}) Regressione mediante processi gaussiani (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/gp.ipynb)
 
-1. [`linear regression.`{:.codelink}]({{ site.baseurl }}{%link codici/linear_regression.ipynb %}) Metodi di regressione lineare(notebook) [In colab](https://nbviewer.jupyter.org/github/tvml/ml2021/blob/master/codici/linear_regression.ipynb)
+1. [`linear regression.`{:.codelink}]({{ site.baseurl }}{%link codici/linear_regression.ipynb %}) Metodi di regressione lineare(notebook) [In colab](https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/linear_regression.ipynb)
 
-1. [`regression.`{:.codelink}]({{ site.baseurl }}{%link codici/regression.ipynb %}) Esempi di regressione mediante scikit-learn (notebook) [In colab](https://nbviewer.jupyter.org/github/tvml/ml2021/blob/master/codici/regression.ipynb)
+1. [`regression.`{:.codelink}]({{ site.baseurl }}{%link codici/regression.ipynb %}) Esempi di regressione mediante scikit-learn (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/regression.ipynb)
+
+1. [`Class_regr.`{:.codelink}]({{ site.baseurl }}{%link codici/class_regr.ipynb %}) Classificazione binaria mediante regressione lineare (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/class_regr.ipynb)
+
+1. [`LDA.`{:.codelink}]({{ site.baseurl }}{%link codici/lda.ipynb %}) Classificazione mediante LDA (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/lda.ipynb)
+
+1. [`Perceptron.`{:.codelink}]({{ site.baseurl }}{%link codici/perceptron.ipynb %}) Perceptron (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/perceptron.ipynb)
+
+1. [`Implementazione processi gaussiani.`{:.codelink}]({{ site.baseurl }}{%link codici/gaussian_process.ipynb %}) Implementazione di processi gaussiani (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/gaussian_process.ipynb)
