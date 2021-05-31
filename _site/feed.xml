@@ -9,6 +9,24 @@
 		<atom:link href="/ml2021/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Approfondimento Deep Learning</title>
+				<link>/ml2021/comunicazioni/approfondimento-deep-learning/</link>
+				<pubDate>Sun, 30 May 2021 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;Un approfondimento sul tema delle Reti Neurali e del Deep Learning è disponibile sulla pagina del corso di Web Mining e Retrieval come lezione 13 all’indirizzo &lt;a href=&quot;http://sag.art.uniroma2.it/didattica/basili/WmIR_20_21/#DeepL&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/ml2021/comunicazioni/approfondimento-deep-learning/</guid>
+			</item>
+		
+			<item>
+				<title>Video su backpropagation</title>
+				<link>/ml2021/comunicazioni/video-bp/</link>
+				<pubDate>Fri, 28 May 2021 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;Un video su YouTube con una buona esposizione di backpropagation &lt;a href=&quot;https://www.youtube.com/watch?v=tIeHLnjs5U8. In inglese sottotitolato&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/ml2021/comunicazioni/video-bp/</guid>
+			</item>
+		
+			<item>
 				<title>Lezione 12</title>
 				<link>/ml2021/lezioni/lezione/</link>
 				<pubDate>Thu, 22 Apr 2021 00:00:00 +0200</pubDate>
@@ -76,24 +94,6 @@
 				<link>/ml2021/lezioni/lezione/</link>
 				<pubDate>Thu, 25 Mar 2021 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/sites/GAMBOSI-8066132-MACHINE_LEARNING/Documenti%20condivisi/Lezioni/lezioni%20registrate/Lezione_ML_250321.mp4&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">/ml2021/lezioni/lezione/</guid>
-			</item>
-		
-			<item>
-				<title>Lezione 4</title>
-				<link>/ml2021/lezioni/lezione/</link>
-				<pubDate>Fri, 19 Mar 2021 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/sites/GAMBOSI-8066132-MACHINE_LEARNING/Documenti%20condivisi/Lezioni/lezioni%20registrate/Lezione_ML_190321.mp4&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">/ml2021/lezioni/lezione/</guid>
-			</item>
-		
-			<item>
-				<title>Lezione 3</title>
-				<link>/ml2021/lezioni/lezione/</link>
-				<pubDate>Thu, 18 Mar 2021 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/sites/GAMBOSI-8066132-MACHINE_LEARNING/Documenti%20condivisi/Lezioni/lezioni%20registrate/Lezione_ML_180321.mp4&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">/ml2021/lezioni/lezione/</guid>
 			</item>

@@ -1,0 +1,18 @@
+I"
+<ol>
+  <li><a href="/ml2021/ml2021/note/1-foundations-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Fondamenti.</code></a> Concetti introduttivi del corso</li>
+  <li><a href="/ml2021/ml2021/note/2-probstat-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Probabilità e statistica.</code></a> Richiami di probabilità e statistica</li>
+  <li><a href="/ml2021/ml2021/note/3-modinf-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Inferenza di modelli.</code></a> Richiami di inferenza di modelli</li>
+  <li><a href="/ml2021/ml2021/note/4-sampling-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Metodi Montecarlo.</code></a> Richiami di metodi di sampling e MCMC</li>
+  <li><a href="/ml2021/ml2021/note/5-fitting-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Fitting.</code></a> Fitting di funzioni</li>
+  <li><a href="/ml2021/ml2021/note/6-probclass-generative-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Modelli generativi.</code></a> Modelli generativi per classificazione</li>
+  <li><a href="/ml2021/ml2021/note/7-linregr-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Regressione lineare.</code></a> Regressione lineare</li>
+  <li><a href="/ml2021/ml2021/note/8-nonparam-regr-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Regressione non parametrica.</code></a> Regressione non parametrica</li>
+  <li><a href="/ml2021/ml2021/note/9-linclass-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Classificazione lineare.</code></a> Classificazione lineare</li>
+  <li><a href="/ml2021/ml2021/note/10-probclass-discriminative-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Modelli discriminativi.</code></a> Modelli discriminativi per la classificazione</li>
+  <li><a href="/ml2021/ml2021/note/11-nonparam-class-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Classificazione non parametrica</code></a> Modelli non parametrici per la classificazione</li>
+  <li><a href="/ml2021/ml2021/note/12-svm-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">SVM</code></a> Support vector machines</li>
+  <li><a href="/ml2021/ml2021/note/13-neural-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Neural</code></a> Reti neurali</li>
+  <li><a href="/ml2021/ml2021/note/14-deep-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Deep</code></a> Deep learning</li>
+</ol>
+:ET

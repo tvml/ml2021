@@ -1,0 +1,12 @@
+name: ml1920
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - ipython
+  - jupyter
+  - numpy
+  - pandas
+  - sklearn
+  - matplotlib

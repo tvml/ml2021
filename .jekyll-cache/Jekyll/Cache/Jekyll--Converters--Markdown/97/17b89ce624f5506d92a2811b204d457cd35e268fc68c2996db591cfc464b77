@@ -1,0 +1,50 @@
+I"�<h2 id="progetti">Progetti</h2>
+
+<h3 id="modalità-di-realizzazione-dei-progetti">Modalità di realizzazione dei progetti</h3>
+
+<p>Tutti i progetti prevedono la scrittura, utilizzando il linguaggio Python, di:</p>
+
+<ul>
+  <li>un programma, sotto forma di notebook Jupyter, che richiami e integri tra loro funzionalità di Machine Learning offerte dalle librerie software adottate;</li>
+  <li>una relazione esaustiva, che può essere integrata all’interno del notebook stesso, che illustri le caratteristiche del problema affrontato e le soluzioni adottate, con una discussione dei risultati ottenuti;</li>
+</ul>
+
+<p>La dimensione standard dei gruppi è pari a due. In casi particolari è possibile prevedere, se motivata, la possibilità di dimensioni diverse da quanto specificato.</p>
+
+<h3 id="progetti-proposti">Progetti proposti</h3>
+
+<p>Alcuni possibili temi sono proposti di seguito</p>
+
+<ul>
+  <li>
+    <p>1 House prices advanced regression <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview">Link</a>
+ <a href="http://jse.amstat.org/v19n3/decock.pdf">Link</a></p>
+  </li>
+  <li>
+    <p>1 House prices advanced regression <a href="https://www.kaggle.com/gpreda/reddit-vaccine-myths">Link</a></p>
+  </li>
+  <li>
+    <p>1 Skin cancer <a href="https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000">Link</a>
+ <a href="https://arxiv.org/abs/1902.03368">Link</a> 
+con riferimento a disease classification task</p>
+  </li>
+</ul>
+
+<p>https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists</p>
+
+<p>https://www.kaggle.com/tanguypledel/science-fiction-books-subgenres</p>
+
+<p>https://archive.ics.uci.edu/ml/datasets/Codon+usage
+Khomtchouk BB, Liang Y, Nonner WF: ‘Codon usage bias levels predict taxonomic identity and genetic composition’. bioRxiv, 2020</p>
+
+<p>https://archive.ics.uci.edu/ml/datasets/BitcoinHeistRansomwareAddressDataset
+BitcoinHeist: Topological Data Analysis for Ransomware Detection on the Bitcoin Blockchain</p>
+
+<p>altri titoli sono quelli proposti lo scorso anno accademico, disponibili a tvml.github.io/ml1920/progetti</p>
+
+<p>Una ulteriore possibilità è l’individuazione e la proposta da parte vostra di un problema di vostro interesse (trovate un elenco di possibili fonti a https://appen.com/open-source-datasets/) altri dataset sono disponibili a https://dataverse.harvard.edu</p>
+
+<p>Il progetto richiede la preparazione di un notebook Jupyter/Python contenente le soluzioni adottate in termini di trattamento delle features, applicazione di modelli di ML, model selection, valutazione e comparazione dei risultati <em>opportunamente documentati</em> nelle sezioni di testo.</p>
+
+<p>Si ricorda che gli studenti che seguono anche il corso di Web mining e retrieval (Informatica e Ingeneria Gestionale con indirizzo Data Analytics) possono richiedere la redazione di un progetto congiunto per i due corso. Informazioni su titoli e argomenti proposti per questo caso saranno fornite nei prossimi giorni, una volta concoradti con il Prof. Basili, docente di WMR</p>
+:ET
