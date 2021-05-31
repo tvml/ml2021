@@ -1,0 +1,31 @@
+I"+<posts>
+        <table>
+            
+            <tr>
+                <td><i class="icon-clock"></i> <time datetime="2021-05-28 00:00:00 +0200">28-05-2021</time></td>  
+                <td><a href="/ml2021/comunicazioni/video-bp/">Video su backpropagation</a></td>
+                <!--td><span class="category"><i class="icon-tag"></i> comunicazioni</span></td-->
+            </tr>
+            <tr>
+                <td colspan="2">
+                <p>Un video su YouTube con una buona esposizione di backpropagation <a href="https://www.youtube.com/watch?v=tIeHLnjs5U8. In inglese sottotitolato">Link</a></p>
+
+                </td>
+            </tr>
+    	
+            <tr>
+                <td><i class="icon-clock"></i> <time datetime="2021-05-30 00:00:00 +0200">30-05-2021</time></td>  
+                <td><a href="/ml2021/comunicazioni/approfondimento-deep-learning/">Video su backpropagation</a></td>
+                <!--td><span class="category"><i class="icon-tag"></i> comunicazioni</span></td-->
+            </tr>
+            <tr>
+                <td colspan="2">
+                <p>Un video su YouTube con una buona esposizione di backpropagation <a href="https://www.youtube.com/watch?v=tIeHLnjs5U8. In inglese sottotitolato">Link</a></p>
+
+                </td>
+            </tr>
+    	
+        </table>
+</posts>
+
+:ET

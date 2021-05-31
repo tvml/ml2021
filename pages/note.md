@@ -16,3 +16,8 @@ header: no
 1. [`Regressione lineare.`{:.filelink}]({{ site.baseurl }}{%link note/7-linregr-notes.pdf %}) Regressione lineare
 1. [`Regressione non parametrica.`{:.filelink}]({{ site.baseurl }}{%link note/8-nonparam-regr-notes.pdf %}) Regressione non parametrica
 1. [`Classificazione lineare.`{:.filelink}]({{ site.baseurl }}{%link note/9-linclass-notes.pdf %}) Classificazione lineare
+1. [`Modelli discriminativi.`{:.filelink}]({{ site.baseurl }}{%link note/10-probclass-discriminative-notes.pdf%}) Modelli discriminativi per la classificazione
+1. [`Classificazione non parametrica`{:.filelink}]({{ site.baseurl }}{%link note/11-nonparam-class-notes.pdf%}) Modelli non parametrici per la classificazione
+1. [`SVM`{:.filelink}]({{ site.baseurl }}{%link note/12-svm-notes.pdf%}) Support vector machines
+1. [`Neural`{:.filelink}]({{ site.baseurl }}{%link note/13-neural-notes.pdf%}) Reti neurali
+1. [`Deep`{:.filelink}]({{ site.baseurl }}{%link note/14-deep-notes.pdf%}) Deep learning

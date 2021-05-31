@@ -19,6 +19,11 @@ header: no
 1. [`Regressione lineare.`{:.filelink}]({{ site.baseurl }}{%link slides/7-linregr-slides.pdf %}) Regressione lineare
 1. [`Regressione non parametrica.`{:.filelink}]({{ site.baseurl }}{%link slides/8-nonparam-regr-slides.pdf %}) Regressione non parametrica
 1. [`Classificazione lineare.`{:.filelink}]({{ site.baseurl }}{%link slides/9-linclass-slides.pdf %}) Classificazione lineare
+1. [`Modelli discriminativi.`{:.filelink}]({{ site.baseurl }}{%link slides/10-probclass-discriminative-slides.pdf%}) Modelli discriminativi per la classificazione
+1. [`Classificazione non parametrica`{:.filelink}]({{ site.baseurl }}{%link slides/11-nonparam-class-slides.pdf%}) Modelli non parametrici per la classificazione
+1. [`SVM`{:.filelink}]({{ site.baseurl }}{%link slides/12-svm-slides.pdf%}) Support vector machines
+1. [`Neural`{:.filelink}]({{ site.baseurl }}{%link slides/13-neural-slides.pdf%}) Reti neurali
+1. [`Deep`{:.filelink}]({{ site.baseurl }}{%link slides/14-deep-slides.pdf%}) Deep learning
 
 
 
@@ -33,3 +38,8 @@ header: no
 1. [`Regressione lineare.`{:.filelink}]({{ site.baseurl }}{%link slides/7-linregr-short.pdf %}) Regressione lineare
 1. [`Regressione non parametrica.`{:.filelink}]({{ site.baseurl }}{%link slides/8-nonparam-regr-short.pdf %}) Regressione non parametrica
 1. [`Classificazione lineare.`{:.filelink}]({{ site.baseurl }}{%link slides/9-linclass-short.pdf %}) Classificazione lineare
+1. [`Modelli discriminativi.`{:.filelink}]({{ site.baseurl }}{%link slides/10-probclass-discriminative-short.pdf%}) Modelli discriminativi per la classificazione
+1. [`Classificazione non parametrica`{:.filelink}]({{ site.baseurl }}{%link slides/11-nonparam-class-short.pdf%}) Modelli non parametrici per la classificazione
+1. [`SVM`{:.filelink}]({{ site.baseurl }}{%link slides/12-svm-short.pdf%}) Support vector machines
+1. [`Neural`{:.filelink}]({{ site.baseurl }}{%link slides/13-neural-short.pdf%}) Reti neurali
+1. [`Deep`{:.filelink}]({{ site.baseurl }}{%link slides/14-deep-short.pdf%}) Deep learning

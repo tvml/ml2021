@@ -1,0 +1,148 @@
+I"ö;<ol>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/mlp_mnist_tf.ipynb"><code class="language-plaintext codelink highlighter-rouge">mnist</code></a> Riconoscimento caratteri (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/mlp_mnist_tf.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/iris.ipynb"><code class="language-plaintext codelink highlighter-rouge">Iris.</code></a> Visualizzazione dataset Iris (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/iris.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/titanic.ipynb"><code class="language-plaintext codelink highlighter-rouge">titanic.</code></a> Classificazione su dataset Titanic (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/titanic.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/regression.ipynb"><code class="language-plaintext codelink highlighter-rouge">regression.</code></a> Esempi di regressione mediante scikit-learn (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/regression.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/loss.ipynb"><code class="language-plaintext codelink highlighter-rouge">loss</code></a> Funzione loss e gradient descent(notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/loss.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/BetaBernoulli.ipynb"><code class="language-plaintext codelink highlighter-rouge">beta_bernoulli</code></a> Modello Beta-Bernoulli (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/BetaBernoulli.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/naivebayes.ipynb"><code class="language-plaintext codelink highlighter-rouge">naive bayes</code></a> Classificazione naive bayes di documenti (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/naivebayes.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/gda.ipynb"><code class="language-plaintext codelink highlighter-rouge">GDA lineare.</code></a> Classificazione mediante GDA con covarianza comune (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/gda.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/gdaquad.ipynb"><code class="language-plaintext codelink highlighter-rouge">GDA.</code></a> Classificazione mediante GDA nel caso generale (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/gdaquad.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/gda-lin-sk-cv.ipynb"><code class="language-plaintext codelink highlighter-rouge">GDA lineare in scikit-learn.</code></a> Classificazione mediante GDA con covarianza comune implementata in scikit-learn (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/gda-lin-sk-cv.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/gda-sk-cv.ipynb"><code class="language-plaintext codelink highlighter-rouge">GDA in scikit-learn.</code></a> Classificazione mediante GDA (caso generale) implementata in scikit-learn (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/gda-sk-cv.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/overfitting.ipynb"><code class="language-plaintext codelink highlighter-rouge">overfitting.</code></a> Illustrazione overfitting (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/overfitting.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/biasvar.ipynb"><code class="language-plaintext codelink highlighter-rouge">biasvar.</code></a> Effetto coefficiente di regolarizzazione in Ridge regression (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/biasvar.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/model_selection.ipynb"><code class="language-plaintext codelink highlighter-rouge">model selection.</code></a> Esempio di overfitting con model selection (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/model_selection.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/tfp.ipynb"><code class="language-plaintext codelink highlighter-rouge">total factor productivity.</code></a> Esempio di sampling su modello bayesiano gerarchico (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/tfp.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/linregr_samples.ipynb"><code class="language-plaintext codelink highlighter-rouge">linregr_samples.</code></a> Apprendimento sequenziale in bayesian regression (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/linregr_samples.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/linregr_predict.ipynb"><code class="language-plaintext codelink highlighter-rouge">linregr_predict.</code></a> Distribuzione predittiva in fully bayesian regression (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/linregr_predict.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/equiv_kernel.ipynb"><code class="language-plaintext codelink highlighter-rouge">equiv_kernel.</code></a> Calcolo e visualizzazione del kernel equivalente (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/equiv_kernel.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/linregr_gradient.ipynb"><code class="language-plaintext codelink highlighter-rouge">linregr_gradient.</code></a> Regressione lineare con gradiente (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/linregr_gradient.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/MCMC.ipynb"><code class="language-plaintext codelink highlighter-rouge">MCMC.</code></a> Esempio di applicazione di MCMC (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/MCMC.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/linregr_mc.ipynb"><code class="language-plaintext codelink highlighter-rouge">linregr_mc.</code></a> Regressione lineare mediante inferenza MCMC in pymc3 (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/linregr_mc.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/local_regr.ipynb"><code class="language-plaintext codelink highlighter-rouge">Local regression.</code></a> Local regression mediante funzioni kernel (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/local_regr.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/gp.ipynb"><code class="language-plaintext codelink highlighter-rouge">Gaussian process.</code></a> Regressione mediante processi gaussiani (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/gp.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/gaussian_processes.ipynb"><code class="language-plaintext codelink highlighter-rouge">Gaussian process (more).</code></a> Ancora su regressione mediante processi gaussiani (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/gaussian_processes.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/linear_regression.ipynb"><code class="language-plaintext codelink highlighter-rouge">linear regression.</code></a> Metodi di regressione lineare(notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/linear_regression.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/class_regr.ipynb"><code class="language-plaintext codelink highlighter-rouge">Class_regr.</code></a> Classificazione binaria mediante regressione lineare (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/class_regr.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/lda.ipynb"><code class="language-plaintext codelink highlighter-rouge">LDA.</code></a> Classificazione mediante LDA (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/lda.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/perceptron.ipynb"><code class="language-plaintext codelink highlighter-rouge">Perceptron.</code></a> Perceptron (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/perceptron.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/gaussian_process.ipynb"><code class="language-plaintext codelink highlighter-rouge">Implementazione processi gaussiani.</code></a> Implementazione di processi gaussiani (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/gaussian_process.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/logreg.ipynb"><code class="language-plaintext codelink highlighter-rouge">Logistic regression.</code></a> Classificazione mediante logistic regression (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/logreg.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/logregregbf.ipynb"><code class="language-plaintext codelink highlighter-rouge">Logistic regression con regolarizzazione.</code></a> Classificazione mediante logistic regression con regolarizzazione (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/logregregbf.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/softmax.ipynb"><code class="language-plaintext codelink highlighter-rouge">Softmax.</code></a> Esempio di sotmax regression (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/softmax.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/ROC.ipynb"><code class="language-plaintext codelink highlighter-rouge">ROC.</code></a> RROC e misure varie (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/ROC.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/parzen.ipynb"><code class="language-plaintext codelink highlighter-rouge">Parzen windows.</code></a> Applicazione delle Parzen windows alla classificazione (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/parzen.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/knn.ipynb"><code class="language-plaintext codelink highlighter-rouge">Knn.</code></a> Classificazione mediante k nearest neighbor (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/knn.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/TextClassification.ipynb"><code class="language-plaintext codelink highlighter-rouge">Classificazione testo.</code></a> Classificazione multiclass di testi (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/TextClassification.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/svm_custom_kernel.ipynb"><code class="language-plaintext codelink highlighter-rouge">SVM custom kernel.</code></a> SVM con kernel custom (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/svm_custom_kernel.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/backprop.ipynb"><code class="language-plaintext codelink highlighter-rouge">Backprop.</code></a> Backpropagation in MLP a 3 layer (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/ensemble.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/nn2d.ipynb"><code class="language-plaintext codelink highlighter-rouge">NN classifier.</code></a> Rete neurale per classificazione binaria (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/nn2d.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/lstm.ipynb"><code class="language-plaintext codelink highlighter-rouge">LSTM.</code></a> Rete ricorrente per generazione testo (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/lstm.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/ensemble.ipynb"><code class="language-plaintext codelink highlighter-rouge">Ensemble classifiers.</code></a> Classificatori ensemble (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/ensemble.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/pca.ipynb"><code class="language-plaintext codelink highlighter-rouge">PCA.</code></a> Principal component analysis (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/pca.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/PCA_austen.ipynb"><code class="language-plaintext codelink highlighter-rouge">PCA e compressione.</code></a> Compressione mediante PCA (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/PCA_austen.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/eigenfaces.ipynb"><code class="language-plaintext codelink highlighter-rouge">Eigenfaces.</code></a> Riconoscimento di volti mediante PCA e SVM (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/eigenfaces.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/ae.ipynb"><code class="language-plaintext codelink highlighter-rouge">Autoencoder.</code></a> Autoencoder (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/ae.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/ae_austen.ipynb"><code class="language-plaintext codelink highlighter-rouge">Autoencoder e compressione immagine.</code></a> Autoencoder applicato a compressione di immagine(notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/ae_austen.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/kmeans.ipynb"><code class="language-plaintext codelink highlighter-rouge">Kmeans.</code></a> Clustering mediante kmeans (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/kmeans.ipynb">In colab</a></p>
+  </li>
+  <li>
+    <p><a href="/ml2021/ml2021/codici/mixtures.ipynb"><code class="language-plaintext codelink highlighter-rouge">Mixtures.</code></a> Clustering e misture di gaussiane (notebook) <a href="https://colab.research.google.com/github/tvml/ml2021/blob/main/codici/mixtures.ipynb">In colab</a></p>
+  </li>
+</ol>
+
+:ET
